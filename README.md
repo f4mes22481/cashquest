@@ -1,6 +1,7 @@
-# React Financial Tracker App with Firebase
+# CashQuest(React Financial Tracker App with Firebase)
 
 ## Project Description
+CashQuest is a gamified personal finance tracker built using React and Firebase.
 This is a full-stack React financial tracker application that allows users to track their financial transactions. The app uses Firebase as the backend for data storage and authentication. It also incorporates Ant Design components for UI, react-apexchart for data visualization, and CRUD operations on Firebase for managing financial records.
 
 ## Table of Contents
@@ -17,7 +18,7 @@ The React Financial Tracker App is designed to help users keep track of their in
 ## Demo
 https://github.com/Ajay-Chaudhari01001/Financely/assets/55138445/a792125e-7ddb-4f0b-a1a4-db28a59b9f92
 
-#### Live Link - https://financetracker22.netlify.app/
+#### Live Link - https://cashquest-fintrack.netlify.app/
 
 ## Technologies Used
 - react: "18.2.0",
@@ -34,7 +35,7 @@ https://github.com/Ajay-Chaudhari01001/Financely/assets/55138445/a792125e-7ddb-4
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ajay-Chaudhari01001/Financely.git
+   git clone https://github.com/f4mes22481/cashquest.git
    cd react-financial-tracker-app
 
 1. Install dependencies::
